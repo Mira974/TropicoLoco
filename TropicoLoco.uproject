@@ -12,41 +12,11 @@
 			]
 		},
 		{
-			"Name": "LiveLinkControlRig",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
-			"Name": "LiveLinkHub",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkCamera",
-			"Enabled": true
-		},
-		{
-			"Name": "AppleARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac",
-				"Linux",
-				"Android"
-			]
-		},
-		{
-			"Name": "AppleARKitFaceSupport",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac",
-				"Linux",
-				"Android"
-			]
-		},
-		{
-			"Name": "MetaHumanRuntime",
+			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		}
 	]
