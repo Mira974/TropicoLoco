@@ -1,0 +1,6 @@
+TropicoLoco/**.uasset filter=lfs diff=lfs merge=lfs -text
+TropicoLoco/**.umap filter=lfs diff=lfs merge=lfs -text
+TropicoLoco/**.uproject filter=lfs diff=lfs merge=lfs -text
+TropicoLoco/**.ubulk filter=lfs diff=lfs merge=lfs -text
+[[:space:]]TropicoLoco/**.uexp filter=lfs diff=lfs merge=lfs -text
+TropicoLoco/**.udic filter=lfs diff=lfs merge=lfs -text
